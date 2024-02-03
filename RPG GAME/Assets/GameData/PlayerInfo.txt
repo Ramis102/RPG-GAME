@@ -1,0 +1,17 @@
+119
+83
+0
+0
+5
+12 10 19 6 19
+50 45 50 45 50 45 50 45 50 45
+Assets/Graphics/PLAYER_TEXTURES/idle/idle_1.png
+Assets/Graphics/PLAYER_TEXTURES/run/run_1.png
+Assets/Graphics/PLAYER_TEXTURES/defend/defend_1.png
+Assets/Graphics/PLAYER_TEXTURES/take_hit/take_hit_1.png
+Assets/Graphics/PLAYER_TEXTURES/death/death_1.png
+Nazeer
+2.5
+2
+10
+100
